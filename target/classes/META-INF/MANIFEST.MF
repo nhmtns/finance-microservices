@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: finance-microservices
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: srini
+Implementation-Vendor-Id: com.srini
+Build-Jdk: 1.8.0_74
+Implementation-URL: http://projects.spring.io/spring-boot/finance-micr
+ oservices/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
